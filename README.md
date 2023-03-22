@@ -16,6 +16,7 @@ Tujuan  untuk mempelajari bagaimana cara membuat app saat menggunakan  bahasa Re
 Run the following command below in project terminal root to build android apk
 ```
 npm install
+npm start
 
 ```
 npm install -g eas-cli
